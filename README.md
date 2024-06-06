@@ -75,6 +75,6 @@ The project evaluates the models using accuracy, confusion matrix, and other rel
 
 The datasets used in this project are sourced from the public GitHub repository of [Taylor Cox & Connor Derrick](https://github.com/tcox17/Bachelor_Project/tree/main/Original%20Datasets). We acknowledge and thank them for providing this valuable data.
 
-State name to abbreviation dictionary was sourced from [this Python recipe](https://code.activestate.com/recipes/577305-python-dictionary-of-us-states-and-territories/) by Mike Schultz. We appreciate their contribution to the project.
+State name to abbreviation dictionary was sourced from [this Python recipe](https://code.activestate.com/recipes/577305-python-dictionary-of-us-states-and-territories/) by Mike Schultz. We appreciate his contribution to the project.
 
 
