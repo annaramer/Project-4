@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-This project aims to analyze data from the Bachelor TV show to predict the elimination week of contestants and identify the factors that contribute to a contestant's success. The project involves data cleaning, transformation, and applying machine learning models to make predictions. We also train a neural network to predict the probability of a contestant winning the season.
+This project aims to analyze data from the Bachelor TV show using the elimination week of contestants and identify the factors that contribute to a contestant's success. The project involves data cleaning, transformation, and applying machine learning models to make predictions. We train three different models: a Decision Tree Classifier, a Neural Network, and a Logistic Regression model. The Decision Tree Classifier is used to predict elimination weeks, the Neural Network is used to predict the probability of a contestant winning the season, and the Logistic Regression model is used to predict if a contestant is a winner. We also evaluate the models' performance using accuracy, confusion matrix, and other relevant metrics, visualizing the results for better understanding.
+
 
 ## Table of Contents
 
